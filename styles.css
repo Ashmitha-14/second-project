@@ -1,0 +1,163 @@
+#Desktop12 {
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+    background: lightorange;
+}
+
+.Weather {
+    width: 355px;
+    height: 68px;
+    left: 511px;
+    top: 18px;
+    position: absolute;
+    text-align: center;
+    color: #5A4A3B;
+    font-size: 50px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.EnterTheCity {
+    left: 441px;
+    top: 123px;
+    position: absolute;
+    color: black;
+    font-size: 25px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.go-button {
+    width: 92px;
+    height: 81px;
+    left: 835px;
+    top: 162px;
+    position: absolute;
+    background: rgba(234.83, 35.71, 64.75, 0.78);
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.14);
+    border-radius: 10px;
+    color: white;
+    font-size: 25px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+#myDiv {
+    width: 593px;
+    height: 622px;
+    left: 392px;
+    top: 311px;
+    position: absolute;
+    background: lightorange;
+    box-shadow: 5px 4px 15px rgba(0, 0, 0, 0.32);
+    border-radius: 28px;
+}
+
+.location-input {
+    width: 382px;
+    height: 81px;
+    left: 440px;
+    top: 170px;
+    position: absolute;
+    background: rgba(255, 255, 255, 0.60);
+    border: 1px rgba(255, 255, 255, 0.40) solid;
+    backdrop-filter: blur(100px);
+    color: black;
+    font-size: 40px;
+    font-family: Inter;
+    font-weight: 400;
+    letter-spacing: 1px;
+    word-wrap: break-word;
+}
+
+#result {
+    width: 207px;
+    height: 49px;
+    left: 586px;
+    top: 326px;
+    position: absolute;
+    color: #EF3024;
+    font-size: 40px;
+    font-family: Roboto;
+    font-weight: 200;
+    letter-spacing: 1px;
+    word-wrap: break-word;
+    text-transform: uppercase;
+}
+
+#day {
+    width: 485px;
+    height: 97px;
+    left: 550px;
+    top: 375px;
+    position: absolute;
+    color: white;
+    font-size: 85px;
+    font-family: Roboto;
+    font-weight: 500;
+    letter-spacing: 1px;
+    word-wrap: break-word;
+}
+
+#Image {
+    width: 189px;
+    height: 177px;
+    left: 600px;
+    top: 468px;
+    position: absolute;
+}
+
+.Sunny {
+    width: 229px;
+    height: 52px;
+    left: 622px;
+    top: 637px;
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    font-family: Segoe UI;
+    font-weight: 600;
+    letter-spacing: 1px;
+    word-wrap: break-word;
+}
+
+#speed {
+    width: 484px;
+    height: 56px;
+    left: 450px;
+    top: 836px;
+    position: absolute;
+    color: white;
+    font-size: 40px;
+    font-family: Segoe UI;
+    font-weight: 600;
+    letter-spacing: 1px;
+    word-wrap: break-word;
+}
+
+#temp {
+    width: 229px;
+    height: 52px;
+    left: 574px;
+    top: 698px;
+    position: absolute;
+    color: white;
+    font-size: 70px;
+    font-family: Segoe UI;
+    font-weight: 600;
+    letter-spacing: 1px;
+    word-wrap: break-word;
+}
+
+.Line4 {
+    width: 512.43px;
+    height: 0px;
+    left: 436.45px;
+    top: 823.67px;
+    position: absolute;
+    border: 3px #FCEAAA solid;
+}
